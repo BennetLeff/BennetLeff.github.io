@@ -14,7 +14,11 @@
       <pubDate>Sat, 29 Sep 2018 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://bennetleff.github.io/articles/ample-article/</guid>
       <author></author>
-      <description>&lt;p&gt;The Ample Sampler!&lt;/p&gt;
+      <description>&lt;p&gt;The Ample Sampler is a digtal drum machine, sampler, sequencer, and sound mangler.
+It is not too dissimilar from the Elektron Octatrack. However, Ample makes an effort
+to provide extensibility and ease of use in a cheaper package. Ultimately, the Ample should
+be cheaper, easier to use, and more powerful than its predecessors.&lt;/p&gt;
+&lt;p&gt;This blog will mostly act as a dev blog for the Ample but may include some detours.&lt;/p&gt;
 </description>
     </item>
   </channel>
