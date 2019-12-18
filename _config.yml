@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/type-theme"
-url: "bennet.me"
+url: "https://bennetleff.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Bennet Leff's blog for personal projects" # used by search engines
 
   # Header and footer text
   header_text:
@@ -19,7 +19,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "bennetleff@gmail.com"
   behance:
   bitbucket:
   dribbble:
